@@ -7,4 +7,4 @@ tekan tombol kanan dan kiri untuk menggerakan player, tekan tombol panah atas un
 # Clone
 Https : https://github.com/yashlan/2d-platformer-game.git \
 ssh   : git@github.com:yashlan/2d-platformer-game.git \
-CLI   : gh repo clone yashlan/2d-platformer-game \
+CLI   : gh repo clone yashlan/2d-platformer-game 

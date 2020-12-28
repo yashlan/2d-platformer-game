@@ -1,2 +1,2 @@
 # VirusAttack
-2D platformer game
+simple 2D platformer game 

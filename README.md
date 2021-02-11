@@ -1,5 +1,10 @@
+![](ScreenShoot/ss2.jpg)
+![](ScreenShoot/ss3.jpg)
+
+
+
 # VirusAttack
-simple 2D platformer game made with unity
+simple 2D platformer game made with unity for android
 
 # Control
 tekan tombol kanan dan kiri untuk menggerakan player, tekan tombol panah atas untuk loncat, tekan tombol fire untuk menembak
